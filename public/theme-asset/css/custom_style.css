@@ -1,0 +1,1636 @@
+/* Custom figma color code */
+
+.custom-color-black {color: #1F3D4E !important}
+.custom-color-primary {color: #90ABB5  !important}
+.custom-color-warning {color: #FBAF16 !important}
+.custom-color-danger {color:#FF7E27 !important}
+.custom-color-success {color: #D84B2B  !important}
+.custom-color-unit {color: #AAC760 !important}
+.machine-off-text-color{
+    color: #788085 !important;
+}
+
+.bg-color-black {background: #1F3D4E !important}
+.bg-color-primary {background: #4180FF !important}
+.bg-color-warning {background: #FBAF16 !important}
+.bg-color-danger {background: #FF7144 !important}
+.bg-color-success {background: #FF2966 !important}
+.bg-color-unit {background: #45BF55 !important}
+.bg-color-default {background: #F0F0F1 !important}
+
+
+.margin-left-10 {
+    margin-left:10px;
+}
+.margin-right-10 {
+    margin-right:10px;
+}
+.img-64{
+    width: 64px !important;
+    height: 64px !important;
+}
+/* Custom figma color code End */
+.error {
+    color: #f82649 !important;
+}
+.label-margin {
+    margin-bottom:0 !important;
+}
+
+.form-group-register {
+    margin-bottom:0;
+}
+
+.wrap-login100-register {
+    width: 700px;
+}
+@media (max-width: 992px) {
+    .wrap-login100-register {
+        width:unset;
+    }
+  }
+@media (max-width: 768px) {
+    .wrap-login100-register {
+        width:unset;
+    }
+    .form-group-register {
+        margin-bottom:1rem;
+    }
+}
+@media (max-width: 576px) {
+    .wrap-login100-register {
+        width:unset;
+    }
+    .form-group-register {
+        margin-bottom:1rem;
+    }
+
+}
+
+.card-border-radius {
+    border-radius: 12px;
+}
+.card-border {
+    border: 1px solid #eaedf1 !important;
+    vertical-align: top;
+}
+
+.custom-border-left{
+    border-left: 1px solid #f5f3f9;
+}
+
+.card-title-overview-page {
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 700;
+    color: #1F3D4E;
+    font-size: 24px;
+    line-height: 1.1;
+    margin-bottom: 0
+}
+.modal-number {
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 22px;
+
+    /* identical to box height */
+    letter-spacing: 0.04em;
+    color: #1F3D4E;
+}
+.kw-number-1 {
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+
+    /* identical to box height */
+    letter-spacing: 0.04em;
+    color: #1F3D4E;
+}
+.kw-number-2 {
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+
+    /* identical to box height */
+    letter-spacing: 0.04em;
+    color: #788085;.custom-color-unit
+}
+.card-kw-number-1 {
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+
+    /* identical to box height */
+    letter-spacing: 0;
+    color: #1F3D4E;
+}
+.card-kw-number-2 {
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+
+    /* identical to box height */
+    letter-spacing: 0.04em;
+    color: #788085;
+}
+
+.card-border-black {
+    border: 1px solid #1F3D4E !important;
+    vertical-align: top;
+}
+
+
+
+.card-border-warning {
+    border: 1px solid #FBAF16 !important;
+    vertical-align: top;
+}
+
+.card-border-primary {
+    border: 1px solid #90ABB5 !important;
+    vertical-align: top;
+}
+
+.card-border-generater{
+    border :1px solid #90ABB5 !important;
+
+}
+.custom-color-generator{
+    color : #90ABB5  
+
+}
+
+.card-border-danger {
+    border: 1px solid #FF7E27 !important;
+    vertical-align: top;
+}
+.card-border-solar {
+    border: 1px solid #FF7E27 !important;
+
+}
+.custom-color-solar{
+    color : #FF7E27
+
+}
+
+.card-border-success {
+    border: 1px solid #D84B2B !important;
+    vertical-align: top;
+}
+
+.card-border-load{
+    border :1px solid #D84B2B !important;
+
+} 
+.custom-color-load{
+    color : #D84B2B 
+
+}
+
+
+.card-border-unit {
+    border: 1px solid #AAC760 !important;
+    vertical-align: top;
+}
+.card-border-unitcard{
+    border: 1px solid #AAC760 !important;
+
+}
+
+.custom-color-unitcard{
+    color : #AAC760 
+
+}
+
+.fontw-5 {font-weight: 500 !important}
+.fontw-7 {font-weight: 700 !important}
+.fontw-9 {font-weight: 900 !important}
+
+/* View Device Details page */
+.device-card-height {
+    min-height: 120px;
+}
+
+.device-serial-number {
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 700 !important;
+    font-size: 22px;
+    /* line-height: 0px; */
+    letter-spacing: 0.06em;
+    color: #1F3D4E;
+}
+.device-serial-label {
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 600 !important;
+    font-size: 14px;
+    line-height: 0px;
+    letter-spacing: 0.02em;
+    color: #788085;
+}
+
+.device-inverter-temp-card{
+    background-color: #1F3D4E !important;
+    border-radius: 12px;
+}
+.device-battery-temp-card{
+    background-color: #AAC760 !important;
+    border-radius: 12px;
+}
+.device-ambient-temp-card{
+    background-color: #90ABB5 !important;
+    border-radius: 12px;
+}
+.device-celcius {
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 0px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.device-celcius-text {
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 0px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.device-card-title {
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.3rem;
+    color: #788085;
+    margin-bottom: 0;
+    letter-spacing: 0.02em;
+}
+.charging-btn{
+    background: #DCFFE1;
+    border-radius: 40px;
+    width: 125px;
+    height: 32px;
+    margin-left:10px;
+}
+.charging-btn-text{
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #45BF55;
+}
+.power-btn{
+    background: #DCFFE1;
+    border-radius: 40px;
+    width: 105px;
+    height: 30px;
+    margin-left: 0px;
+}
+.power-btn-text{
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 17px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    color: #45BF55;
+}
+
+.frequency-icon{
+    position: absolute;
+    left: 19px;
+    top: 8px;
+}
+.voltage-icon{
+    position: absolute;
+    left: 19px;
+    top: 8px;
+}
+.frequency-main-text{
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+    color: #788085;
+}
+.frequency-child-text{
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.02em;
+    color: #1F3D4E;
+}
+.edit-icon-btn {
+    width: 3rem;
+    height: 3rem;
+    line-height: 3rem;
+    text-align: center;
+    font-size: 24px;
+    background: linear-gradient(to bottom right, #3498db 0%, #6942b4 100%) !important;
+    border-radius: 5px;
+}
+.img-grid-line {
+    /* transform: translate(415px, -53px); */
+    transform: translate(50%, 50%);
+    position: absolute;
+    left: 132%;
+    height: 57px;
+    top: -59%;
+}
+.img-generator-line{
+    /* transform: translate(28px, -56px); */
+    transform: translate(50%, 50%);
+    top: -128px;
+    left: 0;
+}
+.img-acsolar-line{
+    /* transform: translate(4px, -56px); */
+    transform: translate(50%, 50%);
+    top: -90%;
+    left: 118%;
+}
+.img-unit-line {
+    left: 0%;
+    top: -76%;
+    transform: translate(50%, 50%);
+    /* transform: translate(-100px, 144px); */
+}
+.img-dcsolar-line {
+    /* transform: translate(100px, 140px); */
+    transform: translate(50%, 50%);
+    top: 33%;
+    left: -195%;
+}
+.selection-scroll {
+    max-height: 325px;
+    overflow: auto;
+}
+.icons-list-item-overview-page {
+    height: 2.4rem !important;
+    margin: 0;
+}
+.device-btn-width{
+    width: 210px;
+    border-radius: 12px;
+    height: 50px;
+}
+.device-btn-icon{
+    margin-right: 5px;
+    margin-bottom: 5px;
+    width: 22px;
+    height: 22px;
+}
+.device-btn-text{
+    position: inherit;
+    /* padding-top: 9px; */
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 35px;
+    text-align: left;
+    padding-left: 25px;
+}
+.battry-card-voltage{
+    background-color: #1F3D4E !important;
+    border-radius: 12px;
+}
+.battry-card-current{
+    background-color: #90ABB5 !important;
+    border-radius: 12px;
+}
+.battry-card-power{
+    background-color: #4E1F4A    !important;
+    border-radius: 12px;
+}
+.battry-card-state-of-charge{
+    background-color: #AAC760 !important;
+    border-radius: 12px;
+}
+.battry-card-text-header{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 22px;
+
+}
+.battry-card-text{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    color: #788085;
+}
+.battry-card-height {
+    min-height: 300px;
+    transform: translate(0%, -48%);
+}
+.last-row-card{
+    transform: translate(0%, -145%);
+}
+.battry-icon-img{
+    transform: translate(50%, 80%);
+    position: absolute;
+    left: 25%;
+}
+.battry-icon-text{
+    transform: translate(0%, 55px);
+}
+.good-icon{
+    transform: translate(75%, 18px);
+}
+.card-z-index{
+    z-index: 9999;
+}
+.get-to-battry-line-img{
+    transform: translate(50%, 50%);
+    position: absolute;
+    right: 0%;
+    top: -40%;
+    height: 14%;
+}
+.battry-to-load-line-img{
+    transform: translate(50%, 50%);
+    position: absolute;
+    right: -90%;
+    top: -40%;
+    height: 14%;
+}
+.acdc-to-battery-line-img{
+
+    transform: translate(50%, 50%);
+    position: absolute;
+    right: 180%;
+    top: -12%;
+    height: 50%;
+}
+.grid-to-battery-line-img{
+
+    transform: translate(50%, 50%);
+    position: absolute;
+    right: 94%;
+    top: -12%;
+    height: 50%;
+}
+.battery-voltage-text {
+    /* font-family: 'Roboto sans-serif'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 0px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.battery-voltage-text-child {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 0px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.machine-off{
+    background: #F0F0F1 !important;
+    border: 1px solid #F0F0F1 !important;
+}
+.db-grid-and-load-row-card{
+    transform: translate(0%, -200%);
+}
+.db-dcsolar-row-card{
+    transform: translate(0%, -180%);
+    margin-bottom: -250px;
+}
+.bty-last-row-card{
+    transform: translate(0%, -200%);
+}
+.bty-health-row-card{
+    transform: translate(10px, -315px);
+    margin-bottom: -240px !important;
+}
+.bty-health-good-icon{
+    transform: translate(40%, 4px);
+}
+.bty-card-height {
+    min-height: 300px;
+    transform: translate(0%, -48%);
+}
+.bty-icon-img{
+    transform: translate(-58%, 70%);
+    position: absolute;
+    left: 25%;
+    height: 65px;
+}
+.bty-health-icon-text {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    color: #788085;
+    transform: translate(33%, 48px);
+}
+.bty-health-good-icon {
+    transform: translate(50%, 50%);
+    height: 30px;
+    position: absolute;
+    top: 90%;
+    left: -25%;
+}
+.bty-card-text-header{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 22px;
+
+}
+.bty-card-text{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    color: #788085;
+}
+.db-img-generator-line{
+    transform: translate(50%, 50%);
+    position: absolute;
+    top: -195px;
+    left: -70px;
+    height: auto;
+}
+
+.db-img-acsolar-line{
+    transform: translate(50%, 50%);
+    position: absolute;
+    top: -195px;
+    left: 340px;
+    height: auto;
+}
+.db-img-grid-line{
+
+    transform: translate(50%, 50%);
+    position: absolute;
+    left: -75px;
+    top: -15px;
+    height: auto;
+}
+.db-img-unit-line{
+    transform: translate(50%, 50%);
+    position: absolute;
+    left: 75px;
+    top: -52px;
+    height: auto;
+}
+.db-img-dcsolar-line{
+    transform: translate(50%, 50%);
+    position: absolute;
+    top: 25%;
+    left: -70%;
+    width: 50px;
+}
+.bty-helth-card-row {
+    position: absolute;
+    margin-top: -35px;
+    margin-bottom: 30px;
+}
+.bty-get-to-battry-line-img{
+    transform: translate(50%, 50%);
+    position: absolute;
+    bottom: 125%;
+    left: -25%;
+}
+.bty-solar-to-battery-line-img{
+
+    transform: translate(50%, 50%);
+    position: absolute;
+    bottom: 125%;
+    left: -75%;
+}
+.bty-battry-to-load-line-img{
+    transform: translate(50%, 50%);
+    position: absolute;
+    left: 125%;
+    top: 8px;
+}
+.bty-load-to-battry-line-img{
+    transform: translate(50%, 50%);
+    position: absolute;
+    left: -210px;
+    top: -18px;
+}
+.bty-grid-to-battery-line-img{
+    transform: translate(50%, 50%);
+    position: absolute;
+    right: 80px;
+    top: -18px;
+}
+
+.bg-verified { background:#FFCE00}
+.bg-unverified { background:#D84B2B }
+.bg-connected { background:#AAC760 }
+
+.bg-chart-powerbank { background:#AAC760 }
+.bg-chart-generator { background:#1F3D4E }
+.bg-chart-acsolar { background:#0F203D }
+.bg-chart-dcsolar { background:#90ABB5 }
+
+.bg-status-off { background:#D84B2B}
+.bg-status-no { background:#D84B2B}
+.bg-status-charging { background:#AAC760}
+.bg-status-verified { background:#AAC760}
+.bg-status-yes { background:#AAC760}
+.bg-add-btn {
+    color: #FFFFFF;
+    background:#AAC760 !important;
+}
+
+
+
+
+/*----------------------- Start Media Query ------------------------------- */
+@media (min-width: 320px) and (max-width: 766px) {
+    .mrb-sm-1{
+        margin-bottom: 5px;
+    }
+    .mrt-sm-1{
+        margin-top: 5px;
+    }
+
+    .mrb-sm-2{
+        margin-bottom: 10px;
+    }
+    .mrt-sm-2{
+        margin-top: 10px;
+    }
+
+    .img-grid-line {
+        display: none;
+    }
+    .img-generator-line{
+        display: none;
+    }
+    .img-acsolar-line{
+        display: none;
+    }
+    .img-unit-line {
+        display: none;
+    }
+    .img-dcsolar-line {
+        display: none;
+    }
+
+
+    .db-img-grid-line {
+        display: none;
+    }
+    .db-img-generator-line{
+        display: none;
+    }
+    .db-img-acsolar-line{
+        display: none;
+    }
+    .db-img-unit-line {
+        display: none;
+    }
+    .db-img-dcsolar-line {
+        display: none;
+    }
+
+    /* Battry Section */
+    .bty-get-to-battry-line-img{
+        display: none;
+    }
+    .bty-battry-to-load-line-img{
+        display: none;
+    }
+    .bty-load-to-battry-line-img{
+        display: none;
+    }
+    .bty-solar-to-battery-line-img{
+        display: none;
+    }
+    .bty-grid-to-battery-line-img{
+        display: none;
+    }
+    .bty-battery-to-grid-line-img{
+        display: none;
+    }
+
+    .device-btn-text {
+        margin-bottom: 10px;
+    }
+    .get-to-battry-line-img{
+        display: none;
+    }
+    .battry-to-load-line-img{
+        display: none;
+    }
+    .acdc-to-battery-line-img{
+        display: none;
+    }
+    .grid-to-battery-line-img{
+        display: none;
+    }
+    .last-row-card {
+        transform: translate(0%, 0%) !important;
+        margin-bottom: unset !important;
+    }
+    .card-z-index {
+        z-index: 0 !important;;
+    }
+    .helth-card-row {
+        margin-top: -35px;
+        margin-bottom: 30px;;
+    }
+
+    .battry-card-height {
+        transform: translate(0%, 0%) !important;
+    }
+    .db-grid-and-load-row-card{
+        transform: translate(0%, 0%) !important;
+    }
+    .db-dcsolar-row-card {
+        transform: translate(0%, -0%) !important;
+        margin-bottom: 0px !important;
+    }
+    .bty-last-row-card{
+        transform: translate(0%, 0%) !important;
+    }
+    .bty-health-row-card {
+        transform: translate(-25px, 0px) !important;
+        margin-bottom: 0px !important;
+    }
+    .bty-card-height{
+        transform: translate(0%, 0%) !important;
+    }
+    .bty-icon-img {
+        transform: translate(-50%, 80%) !important;
+        height: 60px !important;
+    }
+    .bty-health-icon-text {
+        transform: translate(40%, 52px) !important;
+    }
+    .bty-health-good-icon {
+        position: fixed;
+        top: 32px;
+        left: -60;
+    }
+    .bty-helth-card-row{
+        position: unset !important;
+        margin-bottom: 50px !important;
+    }
+    .db-img-grid-line {
+        transform: translate(50%, 50%);
+        position: absolute;
+        left: -25%;
+        top: -4% !important;
+        height: auto;
+    }
+
+}
+@media (min-width: 420px) and (max-width: 767px) {
+    .bty-health-good-icon {
+        left: -33% !important;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .card-kw-number-1 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .card-kw-number-2 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .device-celcius-text{
+        font-size: 10px;
+    }
+    .img-generator-line {
+        transform: translate(50%, 50%);
+        top: -127px;
+        left: 14px;
+    }
+    .img-acsolar-line {
+        transform: translate(50%, 50%);
+        top: -89%;
+        left: 118%;
+    }
+    .img-grid-line {
+        transform: translate(50%, 50%);
+        position: absolute;
+        left: 125%;
+        height: 57px;
+        top: -59%;
+    }
+    .img-dcsolar-line {
+        transform: translate(50%, 50%);
+        top: 33%;
+        left: -183%;
+    }
+    .img-unit-line {
+        transform: translate(50%, 50%);
+        top: -76%;
+        left: 5%;
+    }
+    .battry-icon-img {
+        transform: translate(50%, 125%) !important;
+        position: absolute;
+        left: 25%;
+    }
+    .bty-icon-img {
+        position: absolute;
+        left: 24%;
+        height: 50px;
+    }
+    .battery-voltage-text{
+        line-height: unset !important;
+    }
+    .battery-voltage-text-child{
+        line-height: unset !important;
+    }
+    .bty-health-icon-text {
+        transform: translate(30%, 34px);
+        font-size: 16px;
+    }
+
+    .bty-card-text-header{
+        font-size: 20px;
+    }
+    .bty-health-good-icon {
+        transform: translate(50%, 50%) !important;
+        top: 78%;
+        left: -22%;
+        height: 25px;
+        position: absolute;
+    }
+    .bty-grid-to-battery-line-img{
+        right: 10px !important;
+        top: 10px !important;
+    }
+    .bty-load-to-battry-line-img{
+        left: -200px !important;
+        top: 10px !important;
+    }
+    .db-img-acsolar-line{
+        left: 250px !important;
+    }
+    .db-img-dcsolar-line{
+        left: -60% !important;
+    }
+    .db-img-grid-line{
+        top: 3% !important;
+    }
+
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    .card-kw-number-1 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .card-kw-number-2 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .device-celcius-text{
+        font-size: 10px;
+    }
+    .img-generator-line {
+        transform: translate(50%, 50%);
+        top: -128px;
+        left: 15px;
+    }
+    .img-acsolar-line {
+        transform: translate(50%, 50%);
+        top: -89%;
+        left: 119%;
+    }
+    .img-grid-line {
+        transform: translate(50%, 50%);
+        position: absolute;
+        left: 125%;
+        height: 57px;
+        top: -59%;
+    }
+   .img-dcsolar-line {
+        transform: translate(50%, 50%);
+        top: 33%;
+    }
+    .img-unit-line {
+        transform: translate(50%, 50%);
+        left: 5%;
+        top: -76%;
+    }
+    .battery-voltage-text{
+        line-height: unset !important;
+    }
+    .battery-voltage-text-child{
+        line-height: unset !important;
+    }
+    .battry-icon-img {
+        position: absolute;
+        left: 24%;
+        height: 50px;
+        top: 15px;
+    }
+    .bty-icon-img {
+        position: absolute;
+        left: 24%;
+        height: 50px;
+        top: 15px;
+    }
+    .bty-health-icon-text {
+        font-size: 16px !important;
+    }
+    .bty-health-good-icon{
+        transform: translate(50%, 50%) !important;
+        height: 25px !important;
+        position: absolute;
+        top: 97% !important;
+        left: -21% !important;
+    }
+    .bty-grid-to-battery-line-img{
+        top: 35px !important;
+    }
+    .bty-load-to-battry-line-img{
+        top: 35px !important;
+    }
+    .db-img-acsolar-line{
+        left: 240px !important;
+    }
+    .db-img-dcsolar-line{
+        left: -60% !important;
+    }
+    .db-img-grid-line{
+        top: 4% !important;
+    }
+}
+
+
+@media (min-width: 1200px) and (max-width: 1360px) {
+    .bty-grid-to-battery-line-img{
+        top: 0px !important;
+    }
+    .bty-load-to-battry-line-img{
+        top: 0px !important;
+    }
+    .generator-img-off{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .generator-img-on{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .card-kw-number-1{
+        font-size: 20px;
+        line-height:26px;
+        margin-left: 10px;
+    }
+    .card-kw-number-2{
+        font-size: 20px;
+        line-height:26px;
+        margin-left: 10px;
+    }
+    .grid-img-off{
+        min-width: 70px;
+        margin-top: -18px;
+    }
+    .grid-img-on{
+        min-width: 70px;
+        margin-top: -18px;
+    }
+    .unit-img-off{
+        min-width: 100px;
+    }
+    .unit-card .card-kw-number-1,.unit-card .card-kw-number-2{
+        font-size: 26px;
+
+    }
+    .dcsolar-img-off, dcsolar-img-on{
+        min-width: 80px;
+        margin-top: -3px;
+    }
+    .acsolar-img-off, acsolar-img-on{
+        min-width: 80px;
+        margin-top: -7px;
+    }
+    .load-img-off, load-img-on{
+        min-width: 80px;
+        margin-top: -7px;
+    }
+    .frequency-img-on, .frequency-img-off{
+        min-width: 60px !important;
+        margin-top: -10px !important;
+    }
+    .frequency-main-text, .frequency-child-text{
+        font-size:20px;
+    }
+    .voltage-img-on, .voltage-img-off{
+        min-width: 60px;
+        margin-top: -10px;
+    }
+    .acdc-img-off, acdc-img-on{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .list-acsolar-img{
+        min-width: 80px;
+        margin-top: -8px;
+    }
+    .list-grid-img{
+        min-width: 70px;
+        margin-top: -8px;
+    }
+}
+@media (min-width: 1361px) and (max-width: 1439px) {
+    .generator-img-off{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .generator-img-on{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .card-kw-number-1{
+        font-size: 20px;
+        line-height:26px;
+        margin-left: 10px;
+    }
+    .card-kw-number-2{
+        font-size: 20px;
+        line-height:26px;
+        margin-left: 10px;
+    }
+    .grid-img-off{
+        min-width: 70px;
+        margin-top: -18px;
+    }
+    .grid-img-on{
+        min-width: 70px;
+        margin-top: -18px;
+    }
+    .unit-img-off{
+        min-width: 100px;
+    }
+    .unit-card .card-kw-number-1,.unit-card .card-kw-number-2{
+        font-size: 26px;
+    }
+    .dcsolar-img-off, dcsolar-img-on{
+        min-width: 80px;
+        margin-top: -3px;
+    }
+    .acsolar-img-off, acsolar-img-on{
+        min-width: 80px;
+        margin-top: -7px;
+    }
+    .load-img-off, load-img-on{
+        min-width: 80px;
+        margin-top: -7px;
+    }
+    .frequency-img-on, .frequency-img-off{
+        min-width: 60px !important;
+        margin-top: -10px !important;
+    }
+
+    .frequency-main-text, .frequency-child-text{
+        font-size:20px;
+    }
+    .voltage-img-on, .voltage-img-off{
+        min-width: 60px;
+        margin-top: -10px;
+    }
+    .acdc-img-off, acdc-img-on{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .list-acsolar-img{
+        min-width: 80px;
+        margin-top: -8px;
+    }
+    .list-grid-img{
+        min-width: 70px;
+        margin-top: -8px;
+    }
+    .list-dcsolar-img{
+        min-width: 75px;
+        margin-top: -8px;
+    }
+    .list-generator-img{
+        min-width: 80px;
+        margin-top: -8px;
+    }
+    .list-unit-img{
+        min-width: 80px;
+        margin-top: 5px;
+    }
+    .list-view-details-img{
+        min-width: 80px;
+        margin-top: 8px;
+    }
+}
+@media (min-width: 1440px) and (max-width: 1516px){
+    .generator-img-off{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .generator-img-on{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .card-kw-number-1{
+        font-size: 20px;
+        line-height:26px;
+        margin-left: 10px;
+    }
+    .card-kw-number-2{
+        font-size: 20px;
+        line-height:26px;
+        margin-left: 10px;
+    }
+    .grid-img-off{
+        min-width: 70px;
+        margin-top: -18px;
+    }
+    .grid-img-on{
+        min-width: 70px;
+        margin-top: -18px;
+    }
+    .unit-img-off{
+        min-width: 100px;
+    }
+    .unit-card .card-kw-number-1,.unit-card .card-kw-number-2{
+        font-size: 26px;
+
+    }
+    .dcsolar-img-off, dcsolar-img-on{
+        min-width: 80px;
+        margin-top: -3px;
+    }
+    .acsolar-img-off, acsolar-img-on{
+        min-width: 80px;
+        margin-top: -7px;
+    }
+    .load-img-off, load-img-on{
+        min-width: 80px;
+        margin-top: -7px;
+    }
+    .frequency-img-on, .frequency-img-off{
+        min-width: 60px !important;
+        margin-top: -10px !important;
+    }
+    .frequency-main-text, .frequency-child-text{
+        font-size:20px;
+    }
+    .voltage-img-on, .voltage-img-off{
+        min-width: 60px;
+        margin-top: -10px;
+    }
+    .acdc-img-off, acdc-img-on{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .list-acsolar-img{
+        min-width: 80px;
+        margin-top: -8px;
+    }
+    .list-grid-img{
+        min-width: 70px;
+        margin-top: -8px;
+    }
+    .list-dcsolar-img{
+        min-width: 75px;
+        margin-top: -8px;
+    }
+    .list-generator-img{
+        min-width: 80px;
+        margin-top: -8px;
+    }
+    .list-unit-img{
+        min-width: 80px;
+        margin-top: 5px;
+    }
+    .list-view-details-img{
+        min-width: 80px;
+        margin-top: 8px;
+    }
+}
+@media (min-width: 1517px) and (max-width: 1600px){
+    .db-img-grid-line {
+        top: -25px !important;
+    }
+    .db-img-generator-line{
+        top: -208px !important;
+        left: -50px !important;
+    }
+    .db-img-unit-line {
+        left: 120px !important;
+        top: -62px !important;
+    }
+    .db-img-acsolar-line{
+        top: -208px !important;
+        left: 445px !important;
+    }
+    .bty-load-to-battry-line-img{
+        top: -30px !important;
+    }
+    .bty-grid-to-battery-line-img{
+        top: -30px !important;
+    }
+    .generator-img-off{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .generator-img-on{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .card-kw-number-1{
+        font-size: 20px;
+        line-height:26px;
+        margin-left: 10px;
+    }
+    .card-kw-number-2{
+        font-size: 20px;
+        line-height:26px;
+        margin-left: 10px;
+    }
+    .grid-img-off{
+        min-width: 70px;
+        margin-top: -18px;
+    }
+    .grid-img-on{
+        min-width: 70px;
+        margin-top: -18px;
+    }
+    .unit-img-off{
+        min-width: 100px;
+    }
+    .unit-card .card-kw-number-1,.unit-card .card-kw-number-2{
+        font-size: 26px;
+
+    }
+    .dcsolar-img-off, dcsolar-img-on{
+        min-width: 80px;
+        margin-top: -3px;
+    }
+    .acsolar-img-off, acsolar-img-on{
+        min-width: 80px;
+        margin-top: -7px;
+    }
+    .load-img-off, load-img-on{
+        min-width: 80px;
+        margin-top: -7px;
+    }
+    .frequency-img-on, .frequency-img-off{
+        min-width: 60px !important;
+        margin-top: -10px !important;
+    }
+    .frequency-main-text, .frequency-child-text{
+        font-size:20px;
+    }
+    .voltage-img-on, .voltage-img-off{
+        min-width: 60px;
+        margin-top: -10px;
+    }
+    .acdc-img-off, acdc-img-on{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .list-acsolar-img{
+        min-width: 80px;
+        margin-top: -8px;
+    }
+    .list-grid-img{
+        min-width: 70px;
+        margin-top: -8px;
+    }
+    .list-dcsolar-img{
+        min-width: 75px;
+        margin-top: -8px;
+    }
+    .list-generator-img{
+        min-width: 80px;
+        margin-top: -8px;
+    }
+    .list-unit-img{
+        min-width: 80px;
+        margin-top: 5px;
+    }
+    .list-view-details-img{
+        min-width: 80px;
+        margin-top: 8px;
+    }
+}
+@media (min-width: 1700px) and (max-width: 1800px){
+    .db-img-grid-line {
+        top: -45px !important;
+    }
+    .db-img-generator-line{
+        top: -224px !important;
+        left: -50px !important;
+    }
+    .db-img-acsolar-line{
+        top: -225px !important;
+        left: 510px !important;
+    }
+    .db-img-unit-line{
+        left: 125px !important;
+        top: -80px !important;
+    }
+    .bty-load-to-battry-line-img{
+        top: -40px !important;
+    }
+    .bty-grid-to-battery-line-img{
+        top: -40px !important;
+    }
+    .generator-img-off{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .generator-img-on{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .card-kw-number-1{
+        font-size: 20px;
+        line-height:26px;
+    }
+    .card-kw-number-2{
+        font-size: 20px;
+        line-height:26px;
+    }
+    .grid-img-off{
+        min-width: 70px;
+        margin-top: -18px;
+    }
+    .grid-img-on{
+        min-width: 70px;
+        margin-top: -18px;
+    }
+    .unit-img-off{
+        min-width: 100px;
+    }
+    .unit-card .card-kw-number-1,.unit-card .card-kw-number-2{
+        font-size: 26px;
+    }
+    .dcsolar-img-off, dcsolar-img-on{
+        min-width: 80px;
+        margin-top: -3px;
+    }
+    .acsolar-img-off, acsolar-img-on{
+        min-width: 80px;
+        margin-top: -7px;
+    }
+    .load-img-off, load-img-on{
+        min-width: 80px;
+        margin-top: -7px;
+    }
+    .frequency-img-on, .frequency-img-off{
+        min-width: 60px !important;
+        margin-top: -10px !important;
+    }
+    .frequency-main-text, .frequency-child-text{
+        font-size:20px;
+    }
+    .voltage-img-on, .voltage-img-off{
+        min-width: 60px;
+        margin-top: -10px;
+    }
+    .acdc-img-off, acdc-img-on{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+}
+@media (min-width: 1801px) and (max-width: 1920px){
+    .db-img-grid-line {
+        top: -50px !important;
+    }
+    .db-img-generator-line{
+        top: -235px !important;
+        left: -75px !important;
+    }
+    .db-img-acsolar-line{
+        top: -235px !important;
+        left: 520px !important;
+    }
+    .db-img-unit-line{
+        left: 130px !important;
+        top: -86px !important;
+    }
+    .bty-load-to-battry-line-img{
+        left: -280px !important;
+        top: -48px !important;
+    }
+    .bty-grid-to-battery-line-img{
+        top: -48px !important;
+    }
+    .generator-img-off{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .generator-img-on{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .card-kw-number-1{
+        font-size: 20px;
+        line-height:26px;
+        margin-left: 10px;
+    }
+    .card-kw-number-2{
+        font-size: 20px;
+        line-height:26px;
+        margin-left: 10px;
+    }
+    .grid-img-off{
+        min-width: 70px;
+        margin-top: -18px;
+    }
+    .grid-img-on{
+        min-width: 70px;
+        margin-top: -18px;
+    }
+    .unit-img-off{
+        min-width: 100px;
+    }
+    .unit-card .card-kw-number-1,.unit-card .card-kw-number-2{
+        font-size: 26px;
+    }
+    .dcsolar-img-off, dcsolar-img-on{
+        min-width: 80px;
+        margin-top: -3px;
+    }
+    .acsolar-img-off, acsolar-img-on{
+        min-width: 80px;
+        margin-top: -7px;
+    }
+    .load-img-off, load-img-on{
+        min-width: 80px;
+        margin-top: -7px;
+    }
+    .frequency-img-on, .frequency-img-off{
+        min-width: 60px !important;
+        margin-top: -10px !important;
+    }
+    .frequency-main-text, .frequency-child-text{
+        font-size:20px;
+    }
+    .voltage-img-on, .voltage-img-off{
+        min-width: 60px;
+        margin-top: -10px;
+    }
+    .acdc-img-off, acdc-img-on{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+}
+@media (min-width: 1921px) and (max-width: 2160px){
+    .db-img-grid-line {
+        top: -50px !important;
+    }
+    .db-img-generator-line{
+        top: -230px !important;
+        left: -75px !important;
+    }
+    .db-img-acsolar-line{
+        top: -230px !important;
+        left: 610px !important;
+    }
+    .db-img-unit-line {
+        left: 130px !important;
+        top: -86px !important;
+    }
+    .bty-load-to-battry-line-img{
+        right: 80px !important;
+        top: -48px !important;
+        left: -270px !important;
+
+    }
+    .bty-grid-to-battery-line-img{
+        top: -48px !important;
+    }
+    .generator-img-off{
+        min-width: 100px;
+        margin-top: -18px;
+    }
+    .generator-img-on{
+        min-width: 100px;
+        margin-top: -18px;
+    }
+    .card-kw-number-1{
+        font-size: 26px;
+        line-height:26px;
+        margin-left: 10px;
+    }
+    .card-kw-number-2{
+        font-size: 26px;
+        line-height:26px;
+        margin-left: 10px;
+    }
+    .grid-img-off{
+        min-width: 80px;
+        margin-top: -18px;
+    }
+    .grid-img-on{
+        min-width: 80px;
+        margin-top: -18px;
+    }
+    .unit-img-off{
+        min-width: 100px;
+    }
+    .unit-card .card-kw-number-1,.unit-card .card-kw-number-2{
+        font-size: 26px;
+
+    }
+    .dcsolar-img-off, dcsolar-img-on{
+        min-width: 100px;
+        margin-top: -3px;
+    }
+    .acsolar-img-off, acsolar-img-on{
+        min-width: 80px;
+        margin-top: -7px;
+    }
+    .load-img-off, load-img-on{
+        min-width: 80px;
+        margin-top: -7px;
+    }
+    .frequency-img-on, .frequency-img-off{
+        min-width: 60px !important;
+        margin-top: -10px !important;
+    }
+    .frequency-main-text, .frequency-child-text{
+        font-size: 24px;
+        margin-top: -6px;
+        line-height:unset;
+    }
+    .voltage-img-on, .voltage-img-off{
+        min-width: 60px;
+        margin-top: -10px;
+    }
+    .acdc-img-off, acdc-img-on{
+        min-width: 90px;
+        margin-top: -18px;
+    }
+    .bty-health-icon-text{
+        font-size: 26px;
+    }
+    .bty-card-text{
+        font-size: 26px;
+    }
+}
+@media (min-width: 2700px) and (max-width: 2750px){
+    .db-img-grid-line {
+        left: 55px !important;
+        top: -54px !important;
+        height: auto !important;
+    }
+    .db-img-generator-line{
+        top: -315px !important;
+        left: -130px !important;
+    }
+    .bty-get-to-battry-line-img{
+        bottom: 125% !important;
+        left: 70px !important;
+    }
+    .bty-solar-to-battery-line-img{
+        left: -240px !important;
+    }
+    .bty-load-to-battry-line-img{
+        right: 155px !important;
+        top: -50px !important;
+    }
+    .bty-grid-to-battery-line-img{
+        left: 65px !important;
+        top: -50px !important;
+    }
+}
+@media (min-width: 4098px) and (max-width: 5050px){
+    .db-img-grid-line {
+        left: 10% !important;
+        top: -40% !important;
+        height: 70% !important;
+    }
+}
